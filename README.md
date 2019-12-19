@@ -1,2 +1,0 @@
-# VotingApp
-Created with CodeSandbox

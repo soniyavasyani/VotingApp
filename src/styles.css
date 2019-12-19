@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  margin-top: 25%;
+}
+.button {
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  box-shadow: 5px 5px 5px 5px #f1f1f1;
+}
+
+h1 {
+  color: black;
+  margin-top: 3%;
+}
+.title {
+  resize: none;
+}
+.back {
+  background-color: transparent;
+  border: none;
+  font-size: 75px;
+  margin-bottom: 5%;
+  margin-top: 0%;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto auto;
+  box-shadow: 10px 10px whitesmoke;
+  border-radius: 2%;
+  border: 2px solid coral;
+  width: 60%;
+  padding: 5%;
+}
+.list {
+  border: 3px solid coral;
+  padding: 2%;
+}
+.title {
+  text-align: center;
+}
